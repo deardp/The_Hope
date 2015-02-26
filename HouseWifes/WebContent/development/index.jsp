@@ -7,9 +7,9 @@
 <title>HouseWifes - Homepage</title>
 </head>
 <body>
-<% java.util.Date d = new java.util.Date(); %>
+
 <h1>
-Today's date is <%= d.toString() %> and this jsp page worked!
+Desperate House Wifes
 </h1>
 </body>
 </html>
